@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Ahmad Siddiquee</h1>
 <h3 align="center">Currently working at Meltwater as a Solutions Engineer Intern, building and scaling real-world applications across the full stack.</h3>
 
-- 💬 Ask me about **Passionate about building impactful tech, optimizing systems, and continuously leveling up across the development + DevOps ecosystem.**
+- **Passionate about building impactful tech, optimizing systems, and continuously leveling up across the development + DevOps ecosystem.**
 
 - 📫 How to reach me **asif.siddiquee@meltwater.com**
 
